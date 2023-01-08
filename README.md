@@ -33,7 +33,7 @@
 </div>
   
   
-
+![Snake animation](https://github.com/ItaloVeras11/ItaloVeras11/blob/output/github-contribution-grid-snake.svg)
 
   
 
