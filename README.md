@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 Trabalhando com Back-end
-- 🌱 Estudando Laravel PHP
+- 🔭 Desenvolvedor PHP
+- 🌱 Desenvolvedor JAVA
 
 <div align="center">
   <a href="https://github.com/ItaloVeras11">
